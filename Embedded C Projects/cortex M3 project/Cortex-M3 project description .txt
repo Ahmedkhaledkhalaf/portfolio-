@@ -1,0 +1,3 @@
+this project made to practicing the process of writing a professional code using cross tool chains, writing a startup codes, linker scripts, make file, depugging and testing, plus simulation tools learning.
+
+the app simply toggles a led connected to Stm32f103CX cortex-M3 at pin 13, port A, GPIO. 
