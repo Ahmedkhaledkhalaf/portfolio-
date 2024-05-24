@@ -1,0 +1,17 @@
+To open the PCB design please visit (easyeda) site, then choose  file -> import -> choose the json file, and select the PCB file. 
+
+
+problems and suggestions in design:
+
+1. The finger mechanism needs improvement and enhancement; the length of the links may need to be rechecked, and a new trail for the mechanism will give good results.
+2. The thumb-finger mechanism needs enhancement and strengthening.
+3. The Palm (motors and fingers holder) needs improvements to ensure that it will accommodate the loads and not affect the motion of the fingers.
+4. The bevel gear and actuation link must be made from metal or high-strength material; the easiest way is metal 3D printing.
+5. Try to manufacture the parts in a high-strength material, not PLA (3D printing).
+6. Be sure that the mechanism is well prepared before implementation.
+7. Implement the mechanism in the right way to be sure that the mechanism will achieve the expected motion. Many links may be implemented in a reversed way, which will work but affect the limit of motion.
+Note: I think the limitation of the motion of the fingers came from the reversed implementation of some parts.
+
+8. For the forearm, the PLA 3D printing with 100% infill will be efficient, but it will be affected by the heat, and at high levels of the forecast temperature, it will melt.
+9. The dimensions between fingers need to be edited.
+I wish you best wishes and good results on the project. :)
